@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Top 30 results from Amazon"
+python3 /usr/local/bin/amazon_web.py
+echo "File saved in Home folder"
