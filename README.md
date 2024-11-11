@@ -8,9 +8,12 @@ Now use the command ```amazon``` in your terminal and you are ready.
 # Prerequisites ✅
 - Bash installed in the system
 - python3
-- for windows use WSL
+- For Windows use WSL
 
 # Commands 🏆
 - For libraries installation ```pip3 install -r requirements.txt```
 - For installing the tool in the local dir ```./installer.sh```
 - To run the tool use ```amazon``` command in the terminal
+
+# Example
+![Screenshot from 2024-11-12 00-36-28](https://github.com/user-attachments/assets/3e149abd-502f-4d3e-99e4-8b1cb7ca6686)
